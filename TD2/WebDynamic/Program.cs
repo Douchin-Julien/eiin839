@@ -6,7 +6,7 @@ using System.Text;
 using System.Web;
 
 namespace WebDynamic
-{// exemple d'url : http://localhost:8080/test/partie2/cequejeveux/MyMethod?param1=mesdames&param2=messieurs
+{
     internal class Program
     {
         private static void Main(string[] args)
@@ -113,18 +113,34 @@ namespace WebDynamic
 
                 Type type = typeof(Mymethods);
                 //Si la méthode peut être appellée (permet d'éviter des erreurs de paramètres null notamment pour le favicon)
-                if (type.GetMethod("MyMethod") != null && type.GetMethod("callMyExe") != null)
+                if (type.GetMethod("MyMethod") != null || type.GetMethod("callMyExe") != null)
                 {
+                    //On récupère la méthode à appeler dans l'url (c'est la dernière avant les paramètres)
+                    string methodToCall = request.Url.Segments[request.Url.Segments.Length - 1];
+
                     //methode de la question 4 : appel d'une méthode interne
-                    MethodInfo method = type.GetMethod("MyMethod");
-                    Mymethods c = new Mymethods();
-                    responseString = (string)method.Invoke(c, new Object[] { HttpUtility.ParseQueryString(request.Url.Query).Get("param1"), HttpUtility.ParseQueryString(request.Url.Query).Get("param2") });
+                    // exemple d'url : http://localhost:8080/test/partie2/cequejeveux/MyMethod?param1=mesdames&param2=messieurs
+                    if (methodToCall == "MyMethod")
+                    {
+                        MethodInfo method = type.GetMethod("MyMethod");
+                        Mymethods c = new Mymethods();
+                        responseString = (string)method.Invoke(c, new Object[] { HttpUtility.ParseQueryString(request.Url.Query).Get("param1"), HttpUtility.ParseQueryString(request.Url.Query).Get("param2") });
 
-                    //méthode de la question 5 : appel d'une méethode externe
-                    MethodInfo externalMethod = type.GetMethod("callMyExe");
-                    Mymethods myMethods = new Mymethods();
-                    responseString += (string)externalMethod.Invoke(myMethods, new Object[] { HttpUtility.ParseQueryString(request.Url.Query).Get("param1"), HttpUtility.ParseQueryString(request.Url.Query).Get("param2") });
+                    }else if (methodToCall == "callMyExe")
+                    {
+                        //méthode de la question 5 : appel d'une méethode externe
+                        // exemple d'url : http://localhost:8080/test/partie2/cequejeveux/callMyExe?param1=bonjour&param2=bienvenu
+                        MethodInfo externalMethod = type.GetMethod("callMyExe");
+                        Mymethods myMethods = new Mymethods();
+                        externalMethod.Invoke(myMethods, new Object[] { HttpUtility.ParseQueryString(request.Url.Query).Get("param1"), HttpUtility.ParseQueryString(request.Url.Query).Get("param2") });
+                        responseString = "Regardez la console pour voir le resultat du .exe";
 
+                    }
+                    else
+                    {
+                        responseString = "parametres detectees mais la methode n'est pas reconnue";
+                    }
+                    
                 }
                 byte[] buffer = System.Text.Encoding.UTF8.GetBytes(responseString);
                 // Get a response stream and write the response to it.
