@@ -11,9 +11,9 @@ class Program
         // https://www.dotnetperls.com/process
         //
         ProcessStartInfo start = new ProcessStartInfo();
-        start.FileName = @"D:\ENSEIGNEMENTS\SoCWS SI4\TD2\BasicExamplesTD2\ExecTest\bin\Debug\ExecTest.exe"; // Specify exe name.
+        start.FileName = @"C:/Users/PC-i7-Julien/Desktop/cours/SI4/deuxième semestre/soc/tds/td1/forkGitHub/eiin839/TD2/ExecTest/bin/Debug/ExecTest.exe"; // Specify exe name.
         start.Arguments = "Argument1"; // Specify arguments.
-        start.UseShellExecute = false; 
+        start.UseShellExecute = false;
         start.RedirectStandardOutput = true;
         //
         // Start the process.

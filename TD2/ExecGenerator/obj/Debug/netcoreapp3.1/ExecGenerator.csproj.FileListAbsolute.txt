@@ -1,0 +1,13 @@
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\ExecGenerator\bin\Debug\netcoreapp3.1\ExecGenerator.exe
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\ExecGenerator\bin\Debug\netcoreapp3.1\ExecGenerator.deps.json
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\ExecGenerator\bin\Debug\netcoreapp3.1\ExecGenerator.runtimeconfig.json
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\ExecGenerator\bin\Debug\netcoreapp3.1\ExecGenerator.runtimeconfig.dev.json
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\ExecGenerator\bin\Debug\netcoreapp3.1\ExecGenerator.dll
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\ExecGenerator\bin\Debug\netcoreapp3.1\ExecGenerator.pdb
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\ExecGenerator\obj\Debug\netcoreapp3.1\ExecGenerator.csprojAssemblyReference.cache
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\ExecGenerator\obj\Debug\netcoreapp3.1\ExecGenerator.AssemblyInfoInputs.cache
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\ExecGenerator\obj\Debug\netcoreapp3.1\ExecGenerator.AssemblyInfo.cs
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\ExecGenerator\obj\Debug\netcoreapp3.1\ExecGenerator.csproj.CoreCompileInputs.cache
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\ExecGenerator\obj\Debug\netcoreapp3.1\ExecGenerator.dll
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\ExecGenerator\obj\Debug\netcoreapp3.1\ExecGenerator.pdb
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\ExecGenerator\obj\Debug\netcoreapp3.1\ExecGenerator.genruntimeconfig.cache
