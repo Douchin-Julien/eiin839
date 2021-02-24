@@ -1,0 +1,13 @@
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\WebDynamic\bin\Debug\netcoreapp3.1\WebDynamic.exe
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\WebDynamic\bin\Debug\netcoreapp3.1\WebDynamic.deps.json
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\WebDynamic\bin\Debug\netcoreapp3.1\WebDynamic.runtimeconfig.json
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\WebDynamic\bin\Debug\netcoreapp3.1\WebDynamic.runtimeconfig.dev.json
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\WebDynamic\bin\Debug\netcoreapp3.1\WebDynamic.dll
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\WebDynamic\bin\Debug\netcoreapp3.1\WebDynamic.pdb
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\WebDynamic\obj\Debug\netcoreapp3.1\WebDynamic.csprojAssemblyReference.cache
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\WebDynamic\obj\Debug\netcoreapp3.1\WebDynamic.AssemblyInfoInputs.cache
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\WebDynamic\obj\Debug\netcoreapp3.1\WebDynamic.AssemblyInfo.cs
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\WebDynamic\obj\Debug\netcoreapp3.1\WebDynamic.csproj.CoreCompileInputs.cache
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\WebDynamic\obj\Debug\netcoreapp3.1\WebDynamic.dll
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\WebDynamic\obj\Debug\netcoreapp3.1\WebDynamic.pdb
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TD2\WebDynamic\obj\Debug\netcoreapp3.1\WebDynamic.genruntimeconfig.cache
