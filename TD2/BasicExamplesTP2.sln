@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "serveurBasique", "HTTPListe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebDynamic", "WebDynamic\WebDynamic.csproj", "{7277E598-9D9E-4CEC-80B4-F19DA8571EAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecGenerator", "ExecGenerator\ExecGenerator.csproj", "{ED519B71-717D-4C7D-B121-FD473795DFC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExecGenerator", "ExecGenerator\ExecGenerator.csproj", "{ED519B71-717D-4C7D-B121-FD473795DFC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD3", "..\TD3\TD3\TD3.csproj", "{23820001-643E-4A81-A5E8-893B75F1ADFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{ED519B71-717D-4C7D-B121-FD473795DFC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED519B71-717D-4C7D-B121-FD473795DFC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED519B71-717D-4C7D-B121-FD473795DFC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23820001-643E-4A81-A5E8-893B75F1ADFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23820001-643E-4A81-A5E8-893B75F1ADFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23820001-643E-4A81-A5E8-893B75F1ADFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23820001-643E-4A81-A5E8-893B75F1ADFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

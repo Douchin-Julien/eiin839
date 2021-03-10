@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+**/bin
+**/.vs
+**/obj
+=======
+
+*.cache
+TP1/Echo/ChatClient/obj/Release/netcoreapp3.1/EchoClient.assets.cache
+>>>>>>> cccfc73a637c775941d645a0b74dcbef1d28b0d4
