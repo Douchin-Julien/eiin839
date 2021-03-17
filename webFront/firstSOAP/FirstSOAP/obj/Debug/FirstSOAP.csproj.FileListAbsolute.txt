@@ -1,0 +1,7 @@
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\webFront\firstSOAP\FirstSOAP\bin\Debug\FirstSOAP.exe.config
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\webFront\firstSOAP\FirstSOAP\bin\Debug\FirstSOAP.exe
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\webFront\firstSOAP\FirstSOAP\bin\Debug\FirstSOAP.pdb
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\webFront\firstSOAP\FirstSOAP\obj\Debug\FirstSOAP.csprojAssemblyReference.cache
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\webFront\firstSOAP\FirstSOAP\obj\Debug\FirstSOAP.csproj.CoreCompileInputs.cache
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\webFront\firstSOAP\FirstSOAP\obj\Debug\FirstSOAP.exe
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\webFront\firstSOAP\FirstSOAP\obj\Debug\FirstSOAP.pdb

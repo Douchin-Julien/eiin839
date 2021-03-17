@@ -17,7 +17,55 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebDynamic", "WebDynamic\We
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExecGenerator", "ExecGenerator\ExecGenerator.csproj", "{ED519B71-717D-4C7D-B121-FD473795DFC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD3", "..\TD3\TD3\TD3.csproj", "{23820001-643E-4A81-A5E8-893B75F1ADFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TD3", "..\TD3\TD3\TD3.csproj", "{23820001-643E-4A81-A5E8-893B75F1ADFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstSOAP", "..\webFront\firstSOAP\FirstSOAP\FirstSOAP.csproj", "{BAB41B23-85D3-45A6-8BD2-0F5F962F3377}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{166BABC9-71C4-4E7F-A51C-92F905312E9D}"
+	ProjectSection(SolutionItems) = preProject
+		..\webFront\materials\index.html = ..\webFront\materials\index.html
+		..\webFront\materials\main.js = ..\webFront\materials\main.js
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "materials", "..\webFront\materials\", "{EB740E96-0003-473D-804C-357A6CAA5D89}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61737"
+		Debug.AspNetCompiler.PhysicalPath = "..\webFront\materials\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61737\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61737"
+		Release.AspNetCompiler.PhysicalPath = "..\webFront\materials\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61737\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61737"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "helper", "..\webFront\helper\", "{DA54B4F4-4606-4944-B605-CE0E125D9DF7}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61861"
+		Debug.AspNetCompiler.PhysicalPath = "..\webFront\helper\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61861\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61861"
+		Release.AspNetCompiler.PhysicalPath = "..\webFront\helper\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61861\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61861"
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +105,18 @@ Global
 		{23820001-643E-4A81-A5E8-893B75F1ADFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23820001-643E-4A81-A5E8-893B75F1ADFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23820001-643E-4A81-A5E8-893B75F1ADFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB41B23-85D3-45A6-8BD2-0F5F962F3377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB41B23-85D3-45A6-8BD2-0F5F962F3377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB41B23-85D3-45A6-8BD2-0F5F962F3377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB41B23-85D3-45A6-8BD2-0F5F962F3377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB740E96-0003-473D-804C-357A6CAA5D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB740E96-0003-473D-804C-357A6CAA5D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB740E96-0003-473D-804C-357A6CAA5D89}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB740E96-0003-473D-804C-357A6CAA5D89}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{DA54B4F4-4606-4944-B605-CE0E125D9DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA54B4F4-4606-4944-B605-CE0E125D9DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA54B4F4-4606-4944-B605-CE0E125D9DF7}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA54B4F4-4606-4944-B605-CE0E125D9DF7}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
